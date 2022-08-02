@@ -1,0 +1,27 @@
+{
+  "type": "module",
+  "name": "aip",
+  "version": "1.0.0",
+  "description": "A repository for a book",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest",
+    "test:watch": "NODE_OPTIONS=--experimental-vm-modules jest --watch"
+  },
+  "jest": {
+    "transform": {}
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobbyhadz/aip.git"
+  },
+  "author": "Borislav Hadzhiev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bobbyhadz/aip/issues"
+  },
+  "homepage": "https://github.com/bobbyhadz/aip#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
