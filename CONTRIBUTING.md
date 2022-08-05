@@ -2,7 +2,7 @@
 
 Hello folks 👋
 
-Thank you for considering contributing to AIP!
+Follow the step by step instructions to contribute to the repository.
 
 ## Pull Request Guidelines
 
